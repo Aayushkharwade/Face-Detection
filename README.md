@@ -1,1 +1,1 @@
-# Face-Detection Machine Learning Project
+# Face-Detection
